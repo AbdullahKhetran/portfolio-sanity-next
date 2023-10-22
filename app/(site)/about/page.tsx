@@ -1,5 +1,3 @@
-// app/about/page.tsx
-
 import Image from "next/image";
 import { getProfile } from "@/sanity/sanity.query";
 import type { ProfileType } from "@/types";
